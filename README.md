@@ -22,7 +22,9 @@ One can find a movie by its id or by its name
 ## API Endpoints
 ## For Movies:
 (GET) Find All Movies endpoint: localhost:3000/movie/
+
 (POST) Add Movie endpoint: localhost:3000/movie/
+
 (GET) Find Movie By Id: localhost:3000/movie/id/{id} ex: localhost:3000/movie/id/1 
 (GET) Find Movie BY Name: localhost:3000/movie/{name} ex: localhost:3000/movie/Inglourious%20Basterds
 (PUT) Update Movie By Id: localhost:3000/movie/id/{id} ex: localhost:3000/movie/id/1 
