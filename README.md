@@ -19,7 +19,8 @@ One can edit and delete movies and genres by both Id or by Name
 One can list all genres and all movies of a specific genre
 One can find a movie by its id or by its name
 
-For Movies:
+## API Endpoints
+## For Movies:
 (GET) Find All Movies endpoint: localhost:3000/movie/
 (POST) Add Movie endpoint: localhost:3000/movie/
 (GET) Find Movie By Id: localhost:3000/movie/id/{id} ex: localhost:3000/movie/id/1 
@@ -29,7 +30,7 @@ For Movies:
 (DELETE) Delete Movie By Id: localhost:3000/movie/id/{id} ex: localhost:3000/movie/id/1 
 (DELETE) Delete Movie By Name: localhost:3000/movie/{name} ex: localhost:3000/movie/Inglourious%20Basterds
 
-For Genres:
+## For Genres:
 (GET) Find All Genres endpoint: localhost:3000/genre/
 (POST) Add Movie endpoint: localhost:3000/genre/
 (GET) Find All Movies By Genre: localhost:3000/genre/{genre} ex: localhost:3000/genre/War
