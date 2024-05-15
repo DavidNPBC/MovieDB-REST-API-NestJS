@@ -26,17 +26,29 @@ One can find a movie by its id or by its name
 (POST) Add Movie endpoint: localhost:3000/movie/
 
 (GET) Find Movie By Id: localhost:3000/movie/id/{id} ex: localhost:3000/movie/id/1 
+
 (GET) Find Movie BY Name: localhost:3000/movie/{name} ex: localhost:3000/movie/Inglourious%20Basterds
+
 (PUT) Update Movie By Id: localhost:3000/movie/id/{id} ex: localhost:3000/movie/id/1 
+
 (PUT) Update Movie By Name: localhost:3000/movie/{name} ex: localhost:3000/movie/Inglourious%20Basterds
+
 (DELETE) Delete Movie By Id: localhost:3000/movie/id/{id} ex: localhost:3000/movie/id/1 
+
 (DELETE) Delete Movie By Name: localhost:3000/movie/{name} ex: localhost:3000/movie/Inglourious%20Basterds
+
 
 ## For Genres:
 (GET) Find All Genres endpoint: localhost:3000/genre/
+
 (POST) Add Movie endpoint: localhost:3000/genre/
+
 (GET) Find All Movies By Genre: localhost:3000/genre/{genre} ex: localhost:3000/genre/War
+
 (PUT) Update Genre By Id: localhost:3000/genre/id/{id} ex: localhost:3000/genre/id/1 
+
 (PUT) Update Genre By Name: localhost:3000/genre/{name} ex: localhost:3000/genre/War
+
 (DELETE) Delete Genre By Id: localhost:3000/genre/id/{id} ex: localhost:3000/genre/id/1 
+
 (DELETE) Delete Genre By Name: localhost:3000/genre/{name} ex: localhost:3000/genre/War
